@@ -1,0 +1,4 @@
+{
+  "estimator": "KNeighborsRegressor",
+  "max_iter": 10
+}

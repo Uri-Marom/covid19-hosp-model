@@ -1,0 +1,4 @@
+{
+  "probability": true,
+  "class_weight": "balanced"
+}

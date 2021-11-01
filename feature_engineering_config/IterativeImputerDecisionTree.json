@@ -1,0 +1,4 @@
+{
+  "estimator": "DecisionTreeRegressor",
+  "max_iter": 10
+}

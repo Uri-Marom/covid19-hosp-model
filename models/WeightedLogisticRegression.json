@@ -1,0 +1,5 @@
+{
+  "max_iter": 10000,
+  "solver": "lbfgs",
+  "class_weight": {"0": 1, "1": 1.5}
+}

@@ -1,0 +1,4 @@
+{
+  "estimator": "RandomForestRegressor",
+  "max_iter": 10
+}

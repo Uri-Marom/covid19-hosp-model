@@ -1,0 +1,4 @@
+{
+  "estimator": "LinearRegression",
+  "max_iter": 10
+}

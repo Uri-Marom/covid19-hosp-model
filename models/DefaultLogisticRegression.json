@@ -1,0 +1,4 @@
+{
+  "max_iter": 10000,
+  "solver": "lbfgs"
+}

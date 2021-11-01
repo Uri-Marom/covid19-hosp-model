@@ -1,0 +1,4 @@
+{
+  "n_estimators": 500,
+  "eval_metric": "aucpr"
+}
